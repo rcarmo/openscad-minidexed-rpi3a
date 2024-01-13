@@ -30,6 +30,6 @@ This is a pretty simple schematic, and I ended up just using a protoboard for it
 
 Printed in PLA, 0.2mm layer height, 3 perimeters, 3 top/bottom layers. I used Sunlu PLA+ for the bottom half of the case and Eryone Galaxy Black for the top and knob.
 
-You may want to print the top half of the case with a plain face, but I went for a little more texture (which may or may not work well depending on PLA). I recommend printing the flat face down, and using mouse ear brims to keep it from warping (although the supports will help with that, too).
+You may want to print the top half of the case with a plain face, but I went for a little more texture (which may or may not work well depending on PLA and lighting). I recommend printing the flat face down, and using mouse ear brims to keep it from warping (although the supports will help with that, too).
 
 [MiniDexed]: https://github.com/probonopd/MiniDexed
